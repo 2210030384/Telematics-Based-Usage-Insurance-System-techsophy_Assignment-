@@ -60,3 +60,18 @@ python main.py
 4. Open in browser
 Visit 👉 http://127.0.0.1:5000
 
+🛠 Skills Demonstrated
+Python scripting and modular programming
+
+Behavioral pattern recognition from data
+
+Risk analysis & rule-based decision-making
+
+Basic web development with Flask
+
+Critical thinking on fairness, safety, and pricing
+
+👤 Author
+Srikanth Nagavamshi
+Student ID: 2210030384
+Techsophy Assignment Submission
